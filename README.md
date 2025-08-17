@@ -1,13 +1,12 @@
-## Hi there 👋
+Hi there 👋
+I'm Rajan Nishad, a Data Science student passionate about turning data into meaningful insights.
 
-Hello! I'm Rajan Nishad<br/>
-A passionate and curious Data Science student diving deep into the world of data, algorithms, and storytelling through insights.<br/>
+🔭 Working on Python, ML, and data analysis — recently built projects on COVID trends and housing prices.
+🌱 Learning Pandas, NumPy, Matplotlib, and ML algorithms — also brushing up on stats and SQL.
+👯 Open to collaborating on data science projects, hackathons, or research.
+💬 Ask me about data cleaning, Python, or beginner tips — I’m still learning too!
+📫 Reach me:  [GitHub](https://github.com/rajannishad1015  ) | [LinkedIn](https://www.linkedin.com/in/rajanishad/  ) | [Email](rajannishad1018@gmail.com) | [Instagram](https://www.instagram.com/retro.x94/  )
+😄 Pronouns: He/Him
+⚡ Fun fact: I love puzzles — whether it's data or a 1000-piece jigsaw!
 
-🔭 I’m currently working on building my foundation in Python, machine learning, and data analysis — recently explored projects on real-world datasets (like COVID trends & housing prices).<br/>
-🌱 I’m currently learning Pandas, NumPy, Matplotlib, and diving into ML algorithms — also brushing up on statistics and SQL to think more like a data scientist.<br/>
-👯 I’m looking to collaborate on real-world data projects, hackathons, or research work where I can contribute and grow.<br/>
-💬 Ask me about data cleaning struggles, Python tips, or how to stay motivated as a beginner — I’ve been there 😅
-📫 How to reach me: [GitHub](https://github.com/rajannishad1015) | [LinkedIn](https://www.linkedin.com/in/rajanishad/) | [Email](rajannishad1018@gmail.com) | [Instagram](https://www.instagram.com/retro.x94/)<br/>
-😄 Pronouns: He/Him<br/>
-⚡ Fun fact: I love solving puzzles — whether it's a tricky dataset or a 1000-piece jigsaw! Data feels like solving a mystery to me.<br/>
-Let’s connect and learn together! 🚀<br/>
+Let’s learn and grow together! 🚀
